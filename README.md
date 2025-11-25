@@ -33,4 +33,4 @@ Financial Concepts	                         Asset Weighting, Returns Calculation
 
 **screenshot:**
 
-![Image Alt](image_url)
+![Image Alt](https://github.com/AnupamBanerjee28/Portfolio-Risk-Management-/blob/351dc7d3d06faa34089449fce3dbc64a4e5e21e4/Screenshot%20.png)
